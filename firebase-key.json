@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "submissionmlgc-meutia-443708",
+  "private_key_id": "e4133a46b50e614c23b52f21c3b931d676d26de1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCEG50KQe7A+pFN\nY2/KCpMC6oXij7cijdy9MKWLBS9E9RahO0XF4UoSKp5EEujeiO7HAVhE3sC6NyBA\nVoTNqNu5S55ddWJwW4l2xtYiDJfwZX5yc5pyWd0BbP9bYzXAaobqc7JbpaQK0cFh\nNCS87ym6AbkogzsV8q/YFv2w98hLNbaJUYNqNYoCcXCiYjJH9yiIOIsZiY8bVlGE\nnfxUYdeY2FOPVJbKrqjuRiafxh6o3Yku8qBF/F2ATG5zoLYe50p7JEua1xCHhO+l\nvFS2EwvPEzOdoOssPOpduAOwA0B3FML47/JueH4T0O/n8tDB/Kr2gYF5qTRPDFuU\n/BI2dcYDAgMBAAECggEADGZb67308m+41CIha9ecPumgBK9ncCEPd0HDeA4JIGU+\naSA07cLpfrts7+5nPzDSwLxTYOHlOYiGrwmv6dUP2Q+Y+L3vR6TzFsJiqcvmz9Pa\nKSH8ScykUUe+AptVGakMd6GObzDxk2mZ+ua32agIXmlemMfgjUnVnLT9V1WamwlE\n5+2n8lGrN6jouOO2ikH/JIWJjTwG95s2H+lwIrq4FdYY6uEcI1DG8BesjsMg0bph\nP8bzSYqYSVDr+yMqoVH7gMV2pEdHU4GXQayByX+Xd0EKuNqGyu18Xzv/e4IilXDC\nQDY8dRKr/CP6JpUompuQxwaGxQg9X4BPMQB69Ij/aQKBgQC4n90fcNgkdOqQDGe2\nRJDsftsF68G7vDJvkVGxcP+SwDd0OSIOUYrlu+TyNsl60XnPy2Otq56jFH4mAk74\nANcpMeJ3CtLvmC9LoSTs5T/6Am79AfqW4wvXz1eyy8K5SCg1a19HB//N/raQpO18\nxbr/WhmZ0CUcdLdaOo4TjQ7HrwKBgQC3LjkxKUxR5Wpt0NkGA9OT6t+rM2y12PPi\njYfNXaJkHmUlceVu/pdBJoj/EqVHgjEz4GIQ0jQrNKWaWZEXuxtOqI94N8aV/ppZ\n5WwSZLSh9ytI8te55QR0lUTpKYBSh/PZQ1WQFkM9z6vrAwbTqpTHek8tNIPNOF+p\n4QO7nejn7QKBgQCS4Muf+bxatJDvbI8N2FqbawiAG2ETI9PUIn4ldko8y6LSWamY\nTpL71ZF8iM2dYg1QnPR98+zOvLznLCr67mA+K6uJHRlW93GY72ha9r8A/PKjYfGk\nHJkNZazVV3lgweELLpKsBdciYKOJS0yMWRo9j8aSMZ90lf5QUAk70JqTjQKBgFMb\nGH1yVBrPr5J07xEoiUQRijpc0VRLQpKlTVhhw7wSgicT3liWDr9TIVI//lZL/dCg\nWz1wcJSthPha7FXM4J22IakT/PeuFA725CoQIFdfEPc+nZrMCVJvKl1yI7LN1Vbb\nkqUVRJp1bnTn4aAEQw2hMuy6Z5Wintwupwfmo3UdAoGBAIF0JPsBWsYEf5l0OC/L\nqMrpDzLDSEYGdp52bw2zPKnsBwlhWdKjEhQVRakUazYx3IVmlzp+rHmFT++ewyxb\nglFn4e4RVPPPq3eh4J/lCZQC6vk8PV18DGsFN2Yq3+MyHRo601YUxC9HJ+RN8jhW\n/hWbQ1E87VTC/EG29T2M+g8+\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-cancer-pred@submissionmlgc-meutia-443708.iam.gserviceaccount.com",
+  "client_id": "112762407233880836793",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-cancer-pred%40submissionmlgc-meutia-443708.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
