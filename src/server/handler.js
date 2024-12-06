@@ -27,14 +27,19 @@ async function postPredictHandler(request, h) {
     data
   });
   
+  const response = h.response({
+    status: 'success',
+    message: 'Model is predicted successfully',
+    data
+  });
+  
   if (label === 'Cancer') {
-    response.code(200); 
-  } else {
     response.code(201); 
+  } else {
+    response.code(200); 
   }
   return response;
 }
-
 
 async function predictHistories(request, h) {
   const { model } = request.server.app;
