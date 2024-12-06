@@ -20,24 +20,13 @@ async function postPredictHandler(request, h) {
   };
 
   //await storeData(id, data);
-
-  const response = h.response({
-    status: 'success',
-    message: 'Model is predicted successfully',
-    data
-  });
   
   const response = h.response({
     status: 'success',
     message: 'Model is predicted successfully',
     data
   });
-  
-  if (label === 'Cancer') {
-    response.code(201); 
-  } else {
-    response.code(200); 
-  }
+  response.code(201);
   return response;
 }
 
