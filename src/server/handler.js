@@ -26,9 +26,13 @@ async function postPredictHandler(request, h) {
     message: 'Model is predicted successfully',
     data
   });
- if (label === 'Cancer') {
-    response.code(201);
-    return response;
+  
+  if (label === 'Cancer') {
+    response.code(200); 
+  } else {
+    response.code(201); 
+  }
+  return response;
 }
 
 async function predictHistories(request, h) {
@@ -56,7 +60,5 @@ async function predictHistories(request, h) {
     data: result,
   });
 }
-}
 
 module.exports = { postPredictHandler, predictHistories };
-}
