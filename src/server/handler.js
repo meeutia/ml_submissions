@@ -59,3 +59,4 @@ async function predictHistories(request, h) {
 }
 
 module.exports = { postPredictHandler, predictHistories };
+}
