@@ -27,11 +27,7 @@ async function postPredictHandler(request, h) {
     data
   });
   
-  if (label === 'Cancer') {
-    response.code(201); 
-  } else {
-    response.code(200); 
-  }
+  response.code(201);
   return response;
 }
 
